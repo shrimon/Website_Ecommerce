@@ -1,0 +1,67 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Bag",
+            "image": "./images/product7.jpg",
+            "price": 760,
+            "category": "Bag"
+        },
+        {
+            "id": 4,
+            "title": "Bag1",
+            "image": "./images/product13.jpg",
+            "price": 850,
+            "category": "Bag"
+        },
+        {
+            "id": 8,
+            "title": "Bag2",
+            "image": "./images/product4.jpg",
+            "price": 290,
+            "category": "Bag"
+        },
+        {
+            "id": 7,
+            "title": "Suits",
+            "image": "./images/product5.jpg",
+            "price": 365,
+            "category": "Suits"
+        },
+        {
+            "id": 16,
+            "title": "Shoes",
+            "image": "./images/product8.jpg",
+            "price": 400,
+            "category": "Shoes"
+        },
+        {
+            "id": 20,
+            "title": "Shoes",
+            "image": "./images/product10.jpg",
+            "price": 270,
+            "category": "Shoes"
+        },
+        {
+            "id": 19,
+            "title": "Suits",
+            "image": "./images/product5.jpg",
+            "price": 250,
+            "category": "Suits"
+        },
+        {
+            "id": 24,
+            "title": "Shoes",
+            "image": "./images/product9.jpg",
+            "price": 500,
+            "category": "Shoes"
+        },
+        {
+            "id": 23,
+            "title": "Suits",
+            "image": "./images/product2.jpg",
+            "price": 600,
+            "category": "Suits"
+        }
+
+    ]
+}
